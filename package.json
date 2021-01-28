@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/Evgeen1981/excel-course/issues"
   },
-  "homepage": "https://github.com/Evgeen1981/excel-course#readme"
+  "homepage": "https://github.com/Evgeen1981/excel-course#readme",
+  "private": true
 }
